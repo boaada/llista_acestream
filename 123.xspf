@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>LLista de reproducció</title>
+	<trackList>
+		<track>
+			<location>acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6</location>
+			<title>tdp 1080p (RTVE Play)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0</location>
+			<title>M.L. Campeones 7 SD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2</location>
+			<title>M.L. Campeones 6 SD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://859bb6295b8d0f224224d3063d9db7cdeca03122</location>
+			<title>M.L. Campeones 5 SD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://1a1b528109edead1904e3dbff575637a452dd1fa</location>
+			<title>M.L. Campeones 4 SD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://ecf4ec41200785812c140e3d1050b412f1519fa7</location>
+			<title>M.L. Campeones 3 1080p</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6</location>
+			<title>M.L. Campeones 2 1080p</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://2bac25f323be1de8208d6554337c2c8256bc32bc</location>
+			<title>M.L. Campeones 1080p MultiAudio (2)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>deinterlace=1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b</location>
+			<title>M.L. Campeones 1080p MultiAudio (1)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://859bb6295b8d0f224224d3063d9db7cdeca03122</location>
+			<title>M.#Vamos 1080p</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2</location>
+			<title>M.#0</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c</location>
+			<title>M. LaLiga 2 1080p</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://1e0214a06000e6f4847dd30cdc2fb839527be862</location>
+			<title>M. LaLiga 1080p MultiAudio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5</location>
+			<title>M. Deportes 2 1080p</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0</location>
+			<title>M. Deportes 1080p</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://ecf4ec41200785812c140e3d1050b412f1519fa7</location>
+			<title>LA 1 1080p</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5</location>
+			<title>GOL TV 1080p</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://2bac25f323be1de8208d6554337c2c8256bc32bc</location>
+			<title>EuroSport 2 1080p</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>deinterlace=1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b</location>
+			<title>EuroSport 1 1080p</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://93d663e92a93845b11c9831885646fa39ba1ed66</location>
+			<title>DAZN LaLiga 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061</location>
+			<title>DAZN LaLiga 1080p MultiAudio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://0c561289a8ce18449e23cca3e925dcb663b7ccfa</location>
+			<title>DAZN F1 1080p</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://149a38e333de920753f1388c43247283bdb05f5b</location>
+			<title>DAZN 4 1080p</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a</location>
+			<title>DAZN 3 1080p</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e</location>
+			<title>DAZN 2 1080p</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://8ca07071b39185431f8e940ec98d1add9e561639</location>
+			<title>DAZN 1 1080p</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+			<vlc:item tid="23"/>
+			<vlc:item tid="24"/>
+			<vlc:item tid="25"/>
+	</extension>
+</playlist>
